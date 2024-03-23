@@ -37,7 +37,7 @@ function App() {
     <>
       <div className="min-h-screen flex items-center justify-center">
         <div className=" w-full max-w-xl mx-auto rounded-2xl p-4 bg-[#FAF0E6] text-[#352F44] shadow-lg shadow-[#352F44] hover:shadow-xl hover:shadow-[#352F44] duration-300">
-          <h1 className=" text-3xl text-center">Password Generator</h1>
+          <h1 className=" text-3xl text-center">Slide To Generate!</h1>
           <div className=" flex shadow rounded-xl overflow-hidden my-4">
             <input
               type="text"
